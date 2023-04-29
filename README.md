@@ -1,4 +1,4 @@
-### Hi there, I am Arden 👋
+### Hi there, I'm Arden 👋
 
 <!--
 **ardenysc/ardenysc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
