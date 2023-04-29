@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Arden 👋
 
 <!--
 **ardenysc/ardenysc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 📖 I'm a computer science student at UBC
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ardenchoi/)
