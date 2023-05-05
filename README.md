@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 📖 I'm a computer science student at UBC
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ardenchoi/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ardenchoi/), [Personal Website](https://ardenysc.github.io)
