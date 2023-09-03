@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 📖 I'm a computer science student at UBC
-- 🖥️ I'm the Webmaster of UBC Bachelor of Computer Science Student Association (BCSSA), building the BCSSA's website from scratch. It's currently a work in progress, but you can check out the repo [here](https://github.com/UBC-BCS-Student-Association/bcssa-website).
+- 🖥️ I'm the Webmaster of UBC Bachelor of Computer Science Student Association (BCSSA), building the BCSSA's website from scratch. Check out the website [here](https://bcssa-website.vercel.app/).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ardenchoi/), [Personal Website](https://ardenysc.github.io)
